@@ -1,5 +1,9 @@
 # Zero-Trace Lite
 
+[![leak check: zero-trace](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/zero-trace.svg)](https://github.com/ZEUSLABZERO/zero-trace-lite)
+
+Add the same badge to your own README once the check runs on your repository: copy the line above, or see https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/ .
+
 A small local check before your work leaves your machine.
 
 A free CLI and local MCP server for supported leak patterns in plain-text files—including secrets left in Claude Code settings.
