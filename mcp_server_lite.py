@@ -25,7 +25,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import zero_trace_lite as lite  # noqa: E402
 
-VERSION = "1.1.4"
+VERSION = "1.2.0"
 SCOPE = ("Reads plain text only: home paths with a login name, common secret-key formats, inline passwords, database "
          "URIs with a password, secrets in .claude/settings*.json, e-mail addresses. Read-only.")
 TOOLS = [

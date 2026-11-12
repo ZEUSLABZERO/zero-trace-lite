@@ -1,0 +1,40 @@
+name: Zero-Trace Lite
+description: A small local check for supported leak patterns in plain-text files, including secrets left in Claude Code settings. Reports in the job summary.
+author: ZEUS LAB
+branding:
+  icon: shield
+  color: gray-dark
+inputs:
+  path:
+    description: Folder or text file to check, relative to the workspace.
+    required: false
+    default: "."
+  fail-on-findings:
+    description: Set to "false" to report without failing the job.
+    required: false
+    default: "true"
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      env:
+        ZT_PATH: ${{ inputs.path }}
+        ZT_FAIL: ${{ inputs.fail-on-findings }}
+      run: |
+        set +e
+        python3 "$GITHUB_ACTION_PATH/zero_trace_lite.py" "$ZT_PATH" > "$RUNNER_TEMP/zero-trace-lite.txt" 2>&1
+        code=$?
+        cat "$RUNNER_TEMP/zero-trace-lite.txt"
+        {
+          echo "## Zero-Trace Lite"
+          echo
+          echo '```'
+          tail -n 60 "$RUNNER_TEMP/zero-trace-lite.txt"
+          echo '```'
+          echo
+          echo "Values are masked in this report. \"None found\" means no supported pattern was detected in plain-text files; it is not proof that the files contain no secrets. A credential that reached Git history or a remote must be revoked at its issuer."
+          echo
+          echo "Checks inside ZIPs, image and document metadata, and hooks that stop the commit or push locally are in the paid kit: https://zero-trace-ship-kit.zeus-lab-global.workers.dev/ (organizations: https://zero-trace-ship-kit.zeus-lab-global.workers.dev/enterprise.html)"
+        } >> "$GITHUB_STEP_SUMMARY"
+        if [ "$ZT_FAIL" = "true" ]; then exit "$code"; fi
+        exit 0
