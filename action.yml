@@ -1,5 +1,5 @@
 name: Zero-Trace Lite
-description: A small local check for supported leak patterns in plain-text files, including secrets left in Claude Code settings. Reports in the job summary.
+description: Reports supported leak patterns in plain-text files, including secrets left in Claude Code settings.
 author: ZEUS LAB
 branding:
   icon: shield
