@@ -1,8 +1,8 @@
 # Zero-Trace Lite
 
-[![leak check: zero-trace](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/zero-trace.svg)](https://github.com/ZEUSLABZERO/zero-trace-lite)
+[![leak check: zero-trace](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/zero-trace.svg)](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/?utm_source=readme_badge)
 
-Add the same badge to your own README once the check runs on your repository: copy the line above, or see https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/ .
+Add the same badge to your own README once the check runs on your repository: copy the line above, or see https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/?utm_source=github_repo .
 
 A small local check before your work leaves your machine.
 
@@ -10,11 +10,11 @@ A free CLI and local MCP server for supported leak patterns in plain-text files�
 
 Python 3.9+ · Standard library only · Local stdio MCP · MIT-licensed Python files
 
-**[Try the browser scanner](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/)** | **[Get the free download ($0+)](https://zeuslab.gumroad.com/l/zero-trace-lite)** | **[See the full kit ($39 / Team $149)](https://zeuslab.gumroad.com/l/zero-trace-ship-kit)**
+**[Try the browser scanner](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=github_repo)** | **[Get the free download ($0+)](https://zeuslab.gumroad.com/l/zero-trace-lite)** | **[See the full kit ($39 / Team $149)](https://zeuslab.gumroad.com/l/zero-trace-ship-kit)**
 
-[![The scanner reporting a secret left in a Claude Code settings file](demo.png)](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/#demo)
+[![The scanner reporting a secret left in a Claude Code settings file](demo.png)](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=github_repo#demo)
 
-*Still image. The 15-second demo plays on the [demo page](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/#demo).*
+*Still image. The 15-second demo plays on the [demo page](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=github_repo#demo).*
 
 ## Quick start
 
@@ -72,7 +72,7 @@ The result is written to the job summary. The runner needs `python3` (GitHub-hos
 | People covered | anyone (MIT) | 1 | up to 10 in one organization |
 | License | MIT (the two Python files here) | commercial, one-time | commercial, one-time |
 
-For a setup that also relays reviews between AIs and shows the activity on a local board: [Autonomous Harness ($149)](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/harness/).
+For a setup that also relays reviews between AIs and shows the activity on a local board: [Autonomous Harness ($149)](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/harness/?utm_source=github_repo).
 
 ## Scope and license
 
