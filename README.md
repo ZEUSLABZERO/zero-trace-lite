@@ -1,3 +1,5 @@
+[![ZEUS LAB](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/assets/readme-banner.png)](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/hq/?utm_source=github_repo)
+
 # Zero-Trace Lite
 
 [![leak check: zero-trace](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/zero-trace.svg)](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/?utm_source=readme_badge)
