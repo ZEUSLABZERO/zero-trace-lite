@@ -14,6 +14,8 @@ Python 3.9+ · Standard library only · Local stdio MCP · MIT-licensed Python f
 
 **[Try the browser scanner](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=github_repo)** | **[Get the free download ($0+)](https://zeuslab.gumroad.com/l/zero-trace-lite)** | **[See the full kit ($39 / Team $149)](https://zeuslab.gumroad.com/l/zero-trace-ship-kit)**
 
+More from ZEUS LAB: [every product, side by side](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/products/?utm_source=github_repo) · [the studio](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/hq/?utm_source=github_repo) · [free pack ($0): included files and a sample record](https://zeuslab.gumroad.com/l/pre-release-check-pack?utm_source=github_repo)
+
 [![The scanner reporting a secret left in a Claude Code settings file](demo.png)](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=github_repo#demo)
 
 *Still image. The 15-second demo plays on the [demo page](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=github_repo#demo).*
