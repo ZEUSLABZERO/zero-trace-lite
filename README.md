@@ -16,6 +16,8 @@ Python 3.9+ · Standard library only · Local stdio MCP · MIT-licensed Python f
 
 More from ZEUS LAB: [every product, side by side](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/products/?utm_source=github_repo) · [the studio](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/hq/?utm_source=github_repo) · [free pack ($0): included files and a sample record](https://zeuslab.gumroad.com/l/pre-release-check-pack?utm_source=github_repo)
 
+Free tools that run in your browser, nothing uploaded: [Paste-Guard — mask names, companies and amounts before an AI chat](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/paste-guard/?utm_source=github_repo) · [Paste-Guard as a Chrome side-panel extension (free ZIP, one permission, no network)](https://github.com/ZEUSLABZERO/zero-trace-lite/releases/tag/paste-guard-extension-v1.0.2) · [Vision Score — pixel statistics of a screenshot or a video](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/vision/?utm_source=github_repo) · [Remix Dojo — five palettes and three type pairings on one slide](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/dojo/?utm_source=github_repo)
+
 [![The scanner reporting a secret left in a Claude Code settings file](demo.png)](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=github_repo#demo)
 
 *Still image. The 15-second demo plays on the [demo page](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=github_repo#demo).*
