@@ -2,6 +2,8 @@
 
 # Zero-Trace Lite
 
+[![ZEUSLABZERO/zero-trace-lite MCP server](https://glama.ai/mcp/servers/ZEUSLABZERO/zero-trace-lite/badges/score.svg)](https://glama.ai/mcp/servers/ZEUSLABZERO/zero-trace-lite)
+
 [![leak check: zero-trace](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/zero-trace.svg)](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/?utm_source=readme_badge)
 
 Add the same badge to your own README once the check runs on your repository: copy the line above, or see https://zero-trace-ship-kit.zeus-lab-global.workers.dev/badge/?utm_source=github_repo .
