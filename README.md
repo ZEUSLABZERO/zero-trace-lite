@@ -16,6 +16,8 @@ Python 3.9+ · Standard library only · Local stdio MCP · MIT-licensed Python f
 
 **[Try the browser scanner](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=github_repo)** | **[Get the free download ($0+)](https://zeuslab.gumroad.com/l/zero-trace-lite)** | **[See the full kit ($39 / Team $149)](https://zeuslab.gumroad.com/l/zero-trace-ship-kit)**
 
+**New from ZEUS LAB — [FORMA](https://forma-zero.com/?utm_source=github_repo&utm_content=v55-readme):** live 3D and 4D web works you can launch as your own. The free starter (KAZE, $0) is a scroll-in launch page with every word in one `EDIT` block. MCP: `claude mcp add --transport http forma https://zeuslab-zero.com/mcp`
+
 More from ZEUS LAB: [every product, side by side](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/products/?utm_source=github_repo) · [the studio](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/hq/?utm_source=github_repo) · [free pack ($0): included files and a sample record](https://zeuslab.gumroad.com/l/pre-release-check-pack?utm_source=github_repo)
 
 Free tools that run in your browser, nothing uploaded: [Paste-Guard — mask names, companies and amounts before an AI chat](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/paste-guard/?utm_source=github_repo) · [Paste-Guard as a Chrome side-panel extension (free ZIP, one permission, no network)](https://github.com/ZEUSLABZERO/zero-trace-lite/releases/tag/paste-guard-extension-v1.0.2) · [Vision Score — pixel statistics of a screenshot or a video](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/vision/?utm_source=github_repo) · [Remix Dojo — five palettes and three type pairings on one slide](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/dojo/?utm_source=github_repo)
